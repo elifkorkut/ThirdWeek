@@ -1,0 +1,15 @@
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\bin\Debug\net5.0\PaparaThirdWeek.Domain.deps.json
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\bin\Debug\net5.0\PaparaThirdWeek.Domain.runtimeconfig.json
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\bin\Debug\net5.0\PaparaThirdWeek.Domain.runtimeconfig.dev.json
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\bin\Debug\net5.0\PaparaThirdWeek.Domain.dll
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\bin\Debug\net5.0\ref\PaparaThirdWeek.Domain.dll
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\bin\Debug\net5.0\PaparaThirdWeek.Domain.pdb
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\PaparaThirdWeek.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\PaparaThirdWeek.Domain.AssemblyInfoInputs.cache
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\PaparaThirdWeek.Domain.AssemblyInfo.cs
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\PaparaThirdWeek.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\PaparaThirdWeek.Domain.dll
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\ref\PaparaThirdWeek.Domain.dll
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\PaparaThirdWeek.Domain.pdb
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\PaparaThirdWeek.Domain.genruntimeconfig.cache
+C:\Users\elifh\Desktop\PaparaThirdWeek_ehk\PaparaThirdWeek.Domain\obj\Debug\net5.0\PaparaThirdWeek.Domain.csproj.AssemblyReference.cache

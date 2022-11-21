@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{2839BD8E-A554-4AF8-9340-BF7838546A7A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaparaThirdWeek.Data/Abstracts/IRepository.cs">
+    <Files>
+      <File FileName="PaparaThirdWeekServices/Abstracts/ICompanyService.cs" />
+      <File FileName="PaparaThirdWeek.Data/Abstracts/IRepository.cs" Line="11" Column="30" />
+      <File FileName="PaparaThirdWeekServices/Concretes/CompanyServices.cs" />
+      <File FileName="PaparaThirdWeek.Api/Controllers/CompanyController.cs" Line="60" Column="1" />
+      <File FileName="PaparaThirdWeekServices/DTOs/CompanyDto.cs" />
+      <File FileName="PaparaThirdWeek.Data/Concretes/Repository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaparaThirdWeek" expanded="True">
+            <Node name="PaparaThirdWeek.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="PaparaThirdWeek.Data" expanded="True">
+              <Node name="Abstracts" expanded="True">
+                <Node name="IRepository.cs" selected="True" />
+              </Node>
+              <Node name="Concretes" expanded="True" />
+              <Node name="Configurations" expanded="True" />
+              <Node name="Context" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+            </Node>
+            <Node name="PaparaThirdWeek.Services" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Abstracts" expanded="True" />
+              <Node name="Concretes" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PaparaThirdWeek.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
